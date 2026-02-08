@@ -1,0 +1,8 @@
+{
+  "name": "ClassSync Pro",
+  "description": "A smart classroom note-taking application that captures blackboard photos, records audio, and uses Gemini AI to generate structured summaries.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
